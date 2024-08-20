@@ -17,4 +17,4 @@
       enabled: true
   
   - name: deploy to test server
-    command: docker run -itd -p 8081:8081 inderjeetkaur03/medicure:1.0
+    command: docker run -itd -p 8081:8081 inderjeetkaur03/medicure:2.0
