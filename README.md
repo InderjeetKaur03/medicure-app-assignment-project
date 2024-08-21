@@ -74,4 +74,4 @@ This process should be automatic and triggered by a push to the GitHub master br
 ## How to submit the project the project : 
 
 1. Create a document with detailed step by step tasks along with the screenshot and upload into respective assignment.
-2. Please mention your github repository containing all the codes includeing application code, pipeline code, Dockerfile, Ansible scripts, Terraform scripts, kubernetes scripts etc..
+2. Please mention your github repository containing all the codes includeing application code, pipeline code, Dockerfile, Ansible scripts, Terraform scripts, kubernetes scripts etc||
